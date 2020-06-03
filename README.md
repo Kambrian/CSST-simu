@@ -1,2 +1,2 @@
 # CSST-simu
-CSST simulation projects
+shared documents for CSST simulation projects
